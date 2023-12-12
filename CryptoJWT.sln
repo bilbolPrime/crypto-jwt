@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoJWT.API", "CryptoJWT.API\CryptoJWT.API.csproj", "{0056BA05-E0FF-4598-9B5D-B9BDC3E67DFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoJWT.Chain", "CryptoJWT.Chain\CryptoJWT.Chain.csproj", "{224B25A9-204E-4166-94BA-A544B2857D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoJWT.Security", "CryptoJWT.Security\CryptoJWT.Security.csproj", "{69C63F7B-BE0A-43AC-9E5C-987C377BB81F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoJWT.Repository", "CryptoJWT.Repository\CryptoJWT.Repository.csproj", "{09A208E0-2491-4087-AA1C-4D5F71DF4DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoJWT.Utils", "CryptoJWT.Utils\CryptoJWT.Utils.csproj", "{6345DEBB-E12E-45E2-826B-B256504A7605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainJWT.Common", "ChainJWT.Common\ChainJWT.Common.csproj", "{DBDF941D-07D8-4334-88C4-AB2175DDFE2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0056BA05-E0FF-4598-9B5D-B9BDC3E67DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0056BA05-E0FF-4598-9B5D-B9BDC3E67DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0056BA05-E0FF-4598-9B5D-B9BDC3E67DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0056BA05-E0FF-4598-9B5D-B9BDC3E67DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224B25A9-204E-4166-94BA-A544B2857D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224B25A9-204E-4166-94BA-A544B2857D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224B25A9-204E-4166-94BA-A544B2857D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224B25A9-204E-4166-94BA-A544B2857D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C63F7B-BE0A-43AC-9E5C-987C377BB81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C63F7B-BE0A-43AC-9E5C-987C377BB81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C63F7B-BE0A-43AC-9E5C-987C377BB81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C63F7B-BE0A-43AC-9E5C-987C377BB81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A208E0-2491-4087-AA1C-4D5F71DF4DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A208E0-2491-4087-AA1C-4D5F71DF4DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A208E0-2491-4087-AA1C-4D5F71DF4DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A208E0-2491-4087-AA1C-4D5F71DF4DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6345DEBB-E12E-45E2-826B-B256504A7605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6345DEBB-E12E-45E2-826B-B256504A7605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6345DEBB-E12E-45E2-826B-B256504A7605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6345DEBB-E12E-45E2-826B-B256504A7605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDF941D-07D8-4334-88C4-AB2175DDFE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDF941D-07D8-4334-88C4-AB2175DDFE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDF941D-07D8-4334-88C4-AB2175DDFE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDF941D-07D8-4334-88C4-AB2175DDFE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6C4A64-0B2F-49AF-BB62-BA58FA20AB61}
+	EndGlobalSection
+EndGlobal

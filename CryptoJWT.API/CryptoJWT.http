@@ -1,0 +1,6 @@
+@CryptoJWT_HostAddress = http://localhost:5183
+
+GET {{CryptoJWT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
