@@ -8,9 +8,9 @@ A simple JWT integration with NFTs (ERC721 standard)
 
 ## Local Chain Setup
 
-1. `npm install` (inside ./contracts)
-1. `truffle compile --all` (inside ./contracts)
-1. `truffle deploy` (inside ./contracts)
+1. `npm install` (inside ./Chain)
+1. `truffle compile --all` (inside ./Chain)
+1. `truffle deploy` (inside ./Chain)
 1. `mint` to mint NFTs to any address
 1. `setBits` to update an NFT's bits
 
